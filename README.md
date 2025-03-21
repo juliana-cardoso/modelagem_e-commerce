@@ -29,3 +29,5 @@ compra, endereço e status da entrega;
 • Pode ser cadastrada mais de uma forma de pagamento;
 
 • Entrega – Possui status e código de rastreio.
+
+![Modelagem e-commerce](https://github.com/user-attachments/assets/b29bdb8d-426a-4e5d-8909-bac1e3a086e5)
